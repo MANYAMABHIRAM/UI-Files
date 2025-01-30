@@ -1,0 +1,8 @@
+/* App.css */
+.plane-icon {
+    font-size: 40px;
+    color: red;
+  }
+.custom-icon {
+    opacity: 1; /* Initial opacity */
+}
